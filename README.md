@@ -1,5 +1,3 @@
-# Tectonic Geomorphology Resources
-
 ## Maps
 
 [SEGEMAR geologic maps (Argentina, Hojas Geológicas)](http://repositorio.segemar.gov.ar/handle/308849217/69)
