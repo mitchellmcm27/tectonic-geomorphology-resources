@@ -14,6 +14,14 @@
 
 **[GPlates](https://www.gplates.org/)** "Interactive visualization of plate tectonics"
 
+## Matlab
+
+**[TopoToolbox](https://topotoolbox.wordpress.com/)** Topographic analysis in Matlab. Hillshading, flow routing, longitudinal profile analysis...
+
+**[mGstat](http://mgstat.sourceforge.net/)** Geostatistics, especially kriging.
+
+**[ternplot](https://www.mathworks.com/matlabcentral/fileexchange/2299-alchemyst-ternplot)** Ternary plots in Matlab.
+
 ## Code, Gists, scripting
 
-Sync your Google Earth saved places across multiple computers (Mac, Linux, or PC) through Dropbox using [this Gist](https://gist.github.com/kblum/76b5e07f44851733cbfb93700ba45662). Note that the instructions are for Mac but can be adapted to Windows/Linux with some googling.
+- Sync your Google Earth saved places across multiple computers (Mac, Linux, or PC) through Dropbox using [this Gist](https://gist.github.com/kblum/76b5e07f44851733cbfb93700ba45662). Note that the instructions are for Mac but can be adapted to Windows/Linux with some googling.
