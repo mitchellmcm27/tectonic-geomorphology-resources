@@ -4,15 +4,15 @@
 
 ## Data, models
 
-**[PaleoDEM](http://www.earthbyte.org/paleodem-resource-scotese-and-wright-2018/)** Reconstructed topography and bathymetry.
+**[PaleoDEM](http://www.earthbyte.org/paleodem-resource-scotese-and-wright-2018/)** Reconstructed topography and bathymetry for various geologic time periods.
 
 ## Mapping tools
 
-**[GeoMapApp](http://www.geomapapp.org/)** Explore, map and geologic data. Many datasets are linked and can be loaded with ease.
+**[GeoMapApp](http://www.geomapapp.org/)** Explore, map and plot geologic data. Many important datasets are linked and can be loaded instantly. Examples: DEMs, gravity anomalies, earthquake locations.
 
-**[Qgis2threejs](https://github.com/minorua/Qgis2threejs)** Export 3-d maps from QGIS to web. Here's an [example](https://mitchellmcm27.github.io/phd-antofalla/exports/southern-fraile-threejs/index.html).
+**[Qgis2threejs](https://github.com/minorua/Qgis2threejs)** Export 3-d maps from QGIS to be viewed on the web. Here's an [example](https://mitchellmcm27.github.io/phd-antofalla/exports/southern-fraile-threejs/index.html).
 
-**[GPlates](https://www.gplates.org/)** "Interactive visualization of plate tectonics"
+**[GPlates](https://www.gplates.org/)** "Interactive visualization of plate tectonics". Powerful geology-oriented GIS based on plate-tectonic reconstructions.
 
 ## Matlab
 
