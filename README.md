@@ -8,6 +8,8 @@
 
 **[PaleoDEM](http://www.earthbyte.org/paleodem-resource-scotese-and-wright-2018/)** Reconstructed topography and bathymetry for various geologic time periods.
 
+**[TRMM - Tropical Rainfall Measuring Mission - processed data](http://www.geog.ucsb.edu/~bodo/TRMM/)** Monthly and anual gridded rainfall time series.
+
 ## Mapping tools
 
 **[GeoMapApp](http://www.geomapapp.org/)** Explore, map and plot geologic data. Many important datasets are linked and can be loaded instantly. Examples: DEMs, gravity anomalies, earthquake locations.
