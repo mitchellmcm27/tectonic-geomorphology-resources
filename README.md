@@ -2,7 +2,7 @@
 
 **[SEGEMAR geologic maps (Argentina, Hojas Geológicas)](http://repositorio.segemar.gov.ar/handle/308849217/69)** The official repository for geologic maps of Argentina, 1:250,000 scale.
 
-**[http://www.criba.edu.ar/geolarg/topograficas.html](http://www.criba.edu.ar/geolarg/topograficas.html)** Geologic and topographic maps of Argentina. Area maps from the Geographic Atlas of Argentina.
+**[Catedra de Geologia Argentina](http://www.criba.edu.ar/geolarg/topograficas.html)** Geologic and topographic maps of Argentina. Area maps from the Geographic Atlas of Argentina.
 
 ## Data, models
 
