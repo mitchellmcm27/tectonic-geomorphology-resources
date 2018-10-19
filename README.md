@@ -26,8 +26,8 @@
 
 **[ternplot](https://www.mathworks.com/matlabcentral/fileexchange/2299-alchemyst-ternplot)** Ternary plots in Matlab.
 
-## Code, Gists, scripting
-
 **[CRONUS](https://bitbucket.org/cronusearth/cronus-calc/src/master/)** Cosmogenic dating of surface exposure. "This directory contains the MATLAB code and data sets for the CRONUS project production rate models, production rate calibration, surface sample calculator and depth profile calculator."
 
-- Sync your Google Earth saved places across multiple computers (Mac, Linux, or PC) through Dropbox using [this Gist](https://gist.github.com/kblum/76b5e07f44851733cbfb93700ba45662). Note that the instructions are for Mac but can be adapted to Windows/Linux with some googling.
+## Other
+
+Sync your Google Earth saved places across multiple computers (Mac, Linux, or PC) through Dropbox using [this Gist](https://gist.github.com/kblum/76b5e07f44851733cbfb93700ba45662). Note that the instructions are for Mac but can be adapted to Windows/Linux with some googling.
