@@ -10,6 +10,10 @@
 
 **[TRMM - Tropical Rainfall Measuring Mission - processed data](http://www.geog.ucsb.edu/~bodo/TRMM/)** Monthly and anual gridded rainfall time series.
 
+**[OCTOPUS](https://earth.uow.edu.au/)** Cosmogenic Isotope and Luminescence Database (University of Wollongong). Map and download erosion rate data.
+
+**[WorldClim](http://www.worldclim.org/)** Gridded climatic data with high resolution (1 km).
+
 ## Mapping tools
 
 **[GeoMapApp](http://www.geomapapp.org/)** Explore, map and plot geologic data. Many important datasets are linked and can be loaded instantly. Examples: DEMs, gravity anomalies, earthquake locations.
