@@ -12,7 +12,7 @@
 
 **[OCTOPUS](https://earth.uow.edu.au/)** Cosmogenic Isotope and Luminescence Database (University of Wollongong). Map and download erosion rate data.
 
-**[WorldClim](http://www.worldclim.org/)** Gridded climatic data with ~1 km resolution. [Ref](Fick_et_al-2017-International_Journal_of_Climatology.pdf)
+**[WorldClim](http://www.worldclim.org/)** Gridded climatic data with ~1 km resolution. [Ref]({{ site.baseurl }}/Fick_et_al-2017-International_Journal_of_Climatology.pdf)
 
 ## Mapping tools
 
