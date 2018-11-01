@@ -2,3 +2,4 @@ title: Tectonic Geomorphology Resources
 theme: jekyll-theme-minimal
 logo: logo.png
 description: A place for data, maps, and tools related to tectonic geomorphology.
+baseurl: /tectonic-geomorphology-resources
