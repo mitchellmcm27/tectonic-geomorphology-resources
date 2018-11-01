@@ -8,7 +8,7 @@
 
 **[PaleoDEM](http://www.earthbyte.org/paleodem-resource-scotese-and-wright-2018/)** Reconstructed topography and bathymetry for various geologic time periods.
 
-**[TRMM - Tropical Rainfall Measuring Mission - processed data](http://www.geog.ucsb.edu/~bodo/TRMM/)** Monthly and anual gridded rainfall time series.
+**[TRMM - Tropical Rainfall Measuring Mission - processed data](http://www.geog.ucsb.edu/~bodo/TRMM/)** Monthly and annual gridded rainfall time series.
 
 **[OCTOPUS](https://earth.uow.edu.au/)** Cosmogenic Isotope and Luminescence Database (University of Wollongong). Map and download erosion rate data.
 
