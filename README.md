@@ -4,6 +4,8 @@
 
 **[Catedra de Geologia Argentina](http://www.criba.edu.ar/geolarg/topograficas.html)** Geologic and topographic maps of Argentina. Area maps from the Geographic Atlas of Argentina.
 
+**[Designing basemaps](http://www.mitchell-mcmillan.com/blog/2018/11/12/designing-basemaps)** A guide for creating your own basemaps in GIS. Useful for field work in remote areas.
+
 ## Data, models
 
 **[PaleoDEM](http://www.earthbyte.org/paleodem-resource-scotese-and-wright-2018/)** Reconstructed topography and bathymetry for various geologic time periods.
