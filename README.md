@@ -24,6 +24,8 @@
 
 **[GPlates](https://www.gplates.org/)** "Interactive visualization of plate tectonics". Powerful geology-oriented GIS based on plate-tectonic reconstructions.
 
+**[TopoJSON](https://github.com/topojson/topojson)** A geospatial vector data format that encodes the topology of shapes (rings and arcs). Especially useful for geologic mapping, where polygons representing units commonly share borders representing contacts. The format also reduces file size over ESRI Shapefiles and the more common GeoJSON, making it ideal for the web. [Here's an example of a digital geologic map using TopoJSON.](http://bl.ocks.org/rclark/5779893)
+
 ## Matlab
 
 **[TopoToolbox](https://topotoolbox.wordpress.com/)** Topographic analysis in Matlab. Hillshading, flow routing, longitudinal profile analysis...
