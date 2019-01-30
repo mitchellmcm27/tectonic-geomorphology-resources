@@ -28,6 +28,8 @@
 
 **[TopoToolbox](https://topotoolbox.wordpress.com/)** Topographic analysis in Matlab. Hillshading, flow routing, longitudinal profile analysis...
 
+**[Topographic Analysis Kit (TAK)](https://github.com/amforte/Topographic-Analysis-Kit)** "A series of MATLAB functions that build upon the functionality of TopoToolbox"
+
 **[mGstat](http://mgstat.sourceforge.net/)** Geostatistics, especially kriging.
 
 **[ternplot](https://www.mathworks.com/matlabcentral/fileexchange/2299-alchemyst-ternplot)** Ternary plots in Matlab.
