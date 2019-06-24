@@ -38,6 +38,12 @@
 
 **[CRONUS](https://bitbucket.org/cronusearth/cronus-calc/src/master/)** Cosmogenic dating of surface exposure. "This directory contains the MATLAB code and data sets for the CRONUS project production rate models, production rate calibration, surface sample calculator and depth profile calculator."
 
+## Geo- & thermochronology
+
+**[Arizona Laserchron Center (ALC)](https://sites.google.com/a/laserchron.org/laserchron/home)** Valuable information, guidelines, and tools. Tips for sampling in the field, laboratory procedures, spreadsheets, etc.
+
+**CRONUS** see above
+
 ## Other
 
 Sync your Google Earth saved places across multiple computers (Mac, Linux, or PC) through Dropbox using [this Gist](https://gist.github.com/mitchellmcm27/e7b0b5203eb25627ab772ef7bbbab7e7). Note that the instructions are for Mac but can be adapted to Windows/Linux with some googling.
