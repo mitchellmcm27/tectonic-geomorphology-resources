@@ -42,6 +42,10 @@
 
 **[Arizona Laserchron Center (ALC)](https://sites.google.com/a/laserchron.org/laserchron/home)** Valuable information, guidelines, and tools. Tips for sampling in the field, laboratory procedures, spreadsheets, etc.
 
+**[Fission-Track Thermochronology and its Application to Geology](https://link.springer.com/book/10.1007/978-3-319-89421-8)**, Marco G.  MalusàPaul G. Fitzgerald, eds.
+
+**[Geochronology and Thermochronology](https://onlinelibrary.wiley.com/doi/book/10.1002/9781118455876)**, Peter W. Reiners Richard W. Carlson Paul R. Renne Kari M. Cooper Darryl E. Granger Noah M. McLean Blair Schoene
+
 **CRONUS** see above
 
 ## Other
