@@ -16,6 +16,8 @@
 
 **[WorldClim](http://www.worldclim.org/)** Gridded climatic data with ~1 km resolution. [More info in Fick and Hijmans, 2017.]({{ site.baseurl }}/Fick_et_al-2017-International_Journal_of_Climatology.pdf)
 
+**[SubMachine](https://www.earth.ox.ac.uk/~smachine/cgi/index.php)** A web-based browser for global subsurface datasets, including tomography models, Crust 1.0 models, and gravity data.
+
 ## Mapping tools
 
 **[GeoMapApp](http://www.geomapapp.org/)** Explore, map and plot geologic data. Many important datasets are linked and can be loaded instantly. Examples: DEMs, gravity anomalies, earthquake locations.
