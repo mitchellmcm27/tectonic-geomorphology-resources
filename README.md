@@ -22,7 +22,7 @@
 
 **[GeoMapApp](http://www.geomapapp.org/)** Explore, map and plot geologic data. Many important datasets are linked and can be loaded instantly. Examples: DEMs, gravity anomalies, earthquake locations.
 
-**[Qgis2threejs](https://github.com/minorua/Qgis2threejs)** Export 3-d maps from QGIS to be viewed on the web. Here's an [example](https://mitchellmcm27.github.io/phd-antofalla/exports/southern-fraile-threejs/index.html).
+**[Qgis2threejs](https://github.com/minorua/Qgis2threejs)** Export 3-d maps from QGIS to be viewed on the web.
 
 **[GPlates](https://www.gplates.org/)** "Interactive visualization of plate tectonics". Powerful geology-oriented GIS based on plate-tectonic reconstructions.
 
@@ -44,7 +44,7 @@
 
 **[Arizona Laserchron Center (ALC)](https://sites.google.com/a/laserchron.org/laserchron/home)** Valuable information, guidelines, and tools. Tips for sampling in the field, laboratory procedures, spreadsheets, etc.
 
-**[Fission-Track Thermochronology and its Application to Geology](https://link.springer.com/book/10.1007/978-3-319-89421-8)**, Marco G.  MalusàPaul G. Fitzgerald, eds.
+**[Fission-Track Thermochronology and its Application to Geology](https://link.springer.com/book/10.1007/978-3-319-89421-8)**, Marco G.  Malusà and Paul G. Fitzgerald, eds.
 
 **[Geochronology and Thermochronology](https://onlinelibrary.wiley.com/doi/book/10.1002/9781118455876)**, Peter W. Reiners Richard W. Carlson Paul R. Renne Kari M. Cooper Darryl E. Granger Noah M. McLean Blair Schoene
 
