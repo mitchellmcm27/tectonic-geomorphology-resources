@@ -1,10 +1,8 @@
-## Maps
+## Geologic Maps (Argentina)
 
 **[SEGEMAR geologic maps (Argentina, Hojas Geológicas)](http://repositorio.segemar.gov.ar/handle/308849217/69)** The official repository for geologic maps of Argentina, 1:250,000 scale.
 
 **[Catedra de Geologia Argentina](http://www.criba.edu.ar/geolarg/topograficas.html)** Geologic and topographic maps of Argentina. Area maps from the Geographic Atlas of Argentina.
-
-**[Designing basemaps](http://www.mitchell-mcmillan.com/blog/2018/11/12/designing-basemaps)** A guide for creating your own basemaps in GIS. Useful for field work in remote areas.
 
 ## Data, models
 
@@ -26,7 +24,7 @@
 
 **[GPlates](https://www.gplates.org/)** "Interactive visualization of plate tectonics". Powerful geology-oriented GIS based on plate-tectonic reconstructions.
 
-**[TopoJSON](https://github.com/topojson/topojson)** A geospatial vector data format that encodes the topology of shapes (rings and arcs). Especially useful for geologic mapping, where polygons representing units commonly share borders representing contacts. The format also reduces file size over ESRI Shapefiles and the more common GeoJSON, making it ideal for the web. [Here's an example of a digital geologic map using TopoJSON.](http://bl.ocks.org/rclark/5779893)
+**[TopoJSON](https://github.com/topojson/topojson)** A geospatial vector data format that encodes the topology of shapes (rings and arcs). Especially of interest for geologic mapping, where polygons representing units commonly share a single border representing a contact. The format also reduces file size over ESRI Shapefiles and the more common GeoJSON, making it ideal for the web. [Here's an example of a digital geologic map using TopoJSON.](http://bl.ocks.org/rclark/5779893)
 
 ## Matlab
 
@@ -42,7 +40,7 @@
 
 ## Geo- & thermochronology
 
-**[Arizona Laserchron Center (ALC)](https://sites.google.com/a/laserchron.org/laserchron/home)** Valuable information, guidelines, and tools. Tips for sampling in the field, laboratory procedures, spreadsheets, etc.
+**[Arizona Laserchron Center (ALC)](https://sites.google.com/a/laserchron.org/laserchron/home)** A large collection of information, guidelines, and tools, including tips for sampling in the field, laboratory procedures, spreadsheets, etc.
 
 **[Fission-Track Thermochronology and its Application to Geology](https://link.springer.com/book/10.1007/978-3-319-89421-8)**, Marco G.  Malusà and Paul G. Fitzgerald, eds.
 
