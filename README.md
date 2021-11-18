@@ -50,9 +50,9 @@
 
 ## Open-source geodynamic modelling software
 
-**[ASPECT](https://github.com/geodynamics/aspect)** Capable of simulating a wide range of geodynamic problems from mantle convection to lithospheric deformation in 2D or 3D. Uses a finite element mesh with the option of adapting the mesh resolution based on viscosity contrasts, etc. Highly scalable to 1000+ cores if needed. Free-surface stabilization algorithms are implemented. See the [manual](http://www.math.clemson.edu/~heister/manual.pdf).
+**[ASPECT](https://github.com/geodynamics/aspect)** Capable of simulating a wide range of geodynamic problems from mantle convection to lithospheric deformation in 2D or 3D. Uses a finite element mesh with the option of adapting the mesh resolution based on viscosity contrasts, etc. Model scenarios are set up through static parameter files. Highly scalable to 1000+ cores if needed. Free-surface stabilization algorithms are implemented. See the [manual](http://www.math.clemson.edu/~heister/manual.pdf).
 
-**[Underworld 2 and UWGeodynamics](https://github.com/underworldcode/UWGeodynamics)** Uses a particle-in-cell finite element approach for tracking material properties. Models are run through a Python interface. Free surface stabilization algorithms not yet implemented.
+**[Underworld 2 and UWGeodynamics](https://github.com/underworldcode/UWGeodynamics)** Uses a particle-in-cell finite element approach for tracking material properties. Model scenarios are set up via a dynamic Python interface. Free surface stabilization algorithms not yet implemented natively, but may be possible using post-solve hooks.
 
 ## Other
 
