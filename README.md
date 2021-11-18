@@ -4,7 +4,7 @@
 
 **[Catedra de Geologia Argentina](http://www.criba.edu.ar/geolarg/topograficas.html)** Geologic and topographic maps of Argentina. Area maps from the Geographic Atlas of Argentina.
 
-## Data, models
+## Sources of data and models
 
 **[PaleoDEM](http://www.earthbyte.org/paleodem-resource-scotese-and-wright-2018/)** Reconstructed topography and bathymetry for various geologic time periods.
 
@@ -26,7 +26,7 @@
 
 **[TopoJSON](https://github.com/topojson/topojson)** A geospatial vector data format that encodes the topology of shapes (rings and arcs). Especially of interest for geologic mapping, where polygons representing units commonly share a single border representing a contact. The format also reduces file size over ESRI Shapefiles and the more common GeoJSON, making it ideal for the web. [Here's an example of a digital geologic map using TopoJSON.](http://bl.ocks.org/rclark/5779893)
 
-## Matlab
+## Matlab tools
 
 **[TopoToolbox](https://topotoolbox.wordpress.com/)** Topographic analysis in Matlab. Hillshading, flow routing, longitudinal profile analysis...
 
@@ -38,7 +38,7 @@
 
 **[CRONUS](https://bitbucket.org/cronusearth/cronus-calc/src/master/)** Cosmogenic dating of surface exposure. "This directory contains the MATLAB code and data sets for the CRONUS project production rate models, production rate calibration, surface sample calculator and depth profile calculator."
 
-## Geo- & thermochronology
+## Geo- & thermochronology resources
 
 **[Arizona Laserchron Center (ALC)](https://sites.google.com/a/laserchron.org/laserchron/home)** A large collection of information, guidelines, and tools, including tips for sampling in the field, laboratory procedures, spreadsheets, etc.
 
@@ -47,6 +47,12 @@
 **[Geochronology and Thermochronology](https://onlinelibrary.wiley.com/doi/book/10.1002/9781118455876)**, Peter W. Reiners Richard W. Carlson Paul R. Renne Kari M. Cooper Darryl E. Granger Noah M. McLean Blair Schoene
 
 **CRONUS** see above
+
+## Open-source geodynamic modelling software
+
+**[ASPECT](https://github.com/geodynamics/aspect)** Capable of simulating a wide range of geodynamic problems from mantle convection to lithospheric deformation in 2D or 3D. Uses a finite element mesh with the option of adapting the mesh resolution based on viscosity contrasts, etc. Highly scalable to 1000+ cores if needed. Free-surface stabilization algorithms are implemented. See the [manual](http://www.math.clemson.edu/~heister/manual.pdf).
+
+**[Underworld 2 and UWGeodynamics](https://github.com/underworldcode/UWGeodynamics)** Uses a particle-in-cell finite element approach for tracking material properties. Models are run through a Python interface. Free surface stabilization algorithms not yet implemented.
 
 ## Other
 
