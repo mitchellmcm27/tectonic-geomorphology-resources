@@ -57,3 +57,5 @@
 ## Other
 
 Sync your Google Earth saved places across multiple computers (Mac, Linux, or PC) through Dropbox using [this Gist](https://gist.github.com/mitchellmcm27/e7b0b5203eb25627ab772ef7bbbab7e7). Note that the instructions are for Mac but can be adapted to Windows/Linux with some googling.
+
+I'm keeping a running list of geo-related terms to use as a dictionary for spellcheckers, etc., see [geo.dict](geo.dict).
