@@ -16,6 +16,8 @@
 
 **[SubMachine](https://www.earth.ox.ac.uk/~smachine/cgi/index.php)** A web-based browser for global subsurface datasets, including tomography models, Crust 1.0 models, and gravity data.
 
+**[Climate reanalysis data](https://fluid.nccs.nasa.gov/reanalysis/)** Estimates of past temperature, wind, precipitation, etc. The [MERRA-2 data](https://gmao.gsfc.nasa.gov/reanalysis/MERRA-2/data_access/) is especially useful for geomorphology.
+
 ## Mapping tools
 
 **[GeoMapApp](http://www.geomapapp.org/)** Explore, map and plot geologic data. Many important datasets are linked and can be loaded instantly. Examples: DEMs, gravity anomalies, earthquake locations.
